@@ -1,0 +1,7 @@
+the main components of blockchain are : 
+
+1) A P2P sytstem for connecting and propogating the transactions 
+
+2) A set of rules to define the consensus (Consensus Algorithm )
+
+3) 

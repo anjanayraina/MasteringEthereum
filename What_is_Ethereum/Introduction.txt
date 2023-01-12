@@ -1,0 +1,2 @@
+Ethereum is a Singelton state machine with a Virtual Machine that applies any state change to the initial state. It is kind of like a 
+distributed computer that runs programs called smart contacts. 
