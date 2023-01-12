@@ -1,7 +1,11 @@
-the main components of blockchain are : 
+the Main Components of Blockchain are : 
 
 1) A P2P sytstem for connecting and propogating the transactions 
 
 2) A set of rules to define the consensus (Consensus Algorithm )
 
-3) 
+3) A state machine that changes the state of the blockchain according to the transactuions 
+
+4) Open Source software implementation 
+
+5) Secure and Censorship Resistant 
